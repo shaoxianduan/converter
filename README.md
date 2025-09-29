@@ -2,14 +2,16 @@
 ## Author: Shaoxian Duan
 **Date:** 2023-09-09  
 
+## A multifunctional unit converter designed for travelers.  
+It supports **currency conversion**, **length**, **speed**, **volume**, **mass**, and **temperature** conversions.  
+
+![alt text](Pics/cover.png)
+---
+
 ## 🌐 Live Demo-(Streamlit Version)
 
 Try the app online: [Travelers' Unit Converter](https://converter-bncx9xvebnqghjlw5avknl.streamlit.app/)
 
-A multifunctional unit converter designed for travelers.  
-It supports **currency conversion**, **length**, **speed**, **volume**, **mass**, and **temperature** conversions.  
-
-![alt text](Pics/cover.png)
 ---
 
 ## Features
