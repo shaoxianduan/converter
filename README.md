@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo-(Streamlit Version)
 
-Try the app online: [SOX vs DJIA Comparison](https://soxdjia-lax6snjubmposywh7jrfty.streamlit.app/)
+Try the app online: [Travelers' Unit Converter](https://converter-bncx9xvebnqghjlw5avknl.streamlit.app/)
 
 A multifunctional unit converter designed for travelers.  
 It supports **currency conversion**, **length**, **speed**, **volume**, **mass**, and **temperature** conversions.  
