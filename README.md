@@ -4,8 +4,6 @@
 
 ## A multifunctional unit converter designed for travelers.  
 It supports **currency conversion**, **length**, **speed**, **volume**, **mass**, and **temperature** conversions.  
-
-![alt text](Pics/cover.png)
 ---
 
 ## 🌐 Live Demo-(Streamlit Version)
